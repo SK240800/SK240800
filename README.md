@@ -19,7 +19,8 @@ I'm a passionate **Data Engineer** with expertise in designing and optimizing la
 - AWS Cloud Practitioner | AWS Data Engineer | AWS Solutions Architect  
 - Apache Spark Programming with PySpark | Kafka DataCamp | Fundamentals of Flink  
 - Data Science with R | Python for Data Science | Master of Microsoft Fabric  
-- SQL-50 LeetCode  
+- SQL-50 LeetCode
+- 50 Days Leetcode Streak  
 
 
 ## 📫 Connect with Me
